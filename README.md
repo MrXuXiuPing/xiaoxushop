@@ -1,4 +1,4 @@
-<h1 style="text-align: center">yshop意象商城系统</h1>
+<h1 style="text-align: center">xiaoxushop</h1>
 
 
 #### 项目简介
